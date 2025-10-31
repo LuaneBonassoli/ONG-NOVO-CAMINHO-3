@@ -6,9 +6,9 @@ O **ONG Novo Caminho** é um projeto de site institucional desenvolvido. Focado 
 
 A arquitetura do site foi modernizada de um Multi Page Application (MPA) para um **Single Page Application (SPA)**.
 
-* **Navegação Instantânea:** A navegação entre Início, Projetos e Cadastro agora é feita em memória usando o Roteamento JS (`History API`), eliminando o recarregamento (o "pisca-pisca") da página.
-* **Código Centralizado:** O site utiliza apenas um arquivo HTML (`index.html`). O conteúdo das rotas (`/`, `/projetos`, `/cadastro`) é carregado dinamicamente via JavaScript (`templates.js`).
-* **Validação Avançada:** A página de Cadastro agora utiliza uma validação programática (em `app.js`) para feedback de erro mais preciso e profissional, incluindo validação de CPF e CEP.
+* **Navegação Instantânea:** A navegação entre Início, Projetos e Cadastro agora é feita em memória usando o Roteamento JS , eliminando o recarregamento da página.
+* **Código Centralizado:** O site utiliza apenas um arquivo HTML. O conteúdo das rotas é carregado dinamicamente via JavaScript.
+* **Validação Avançada:** A página de Cadastro agora utiliza uma validação programática para feedback de erro mais preciso e profissional, incluindo validação de CPF e CEP.
 
 ## 🎯 Sobre o Projeto
 
