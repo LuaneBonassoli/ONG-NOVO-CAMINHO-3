@@ -37,7 +37,7 @@ O site é composto por um único arquivo HTML que utiliza um **roteador JavaScri
 O código CSS foi construído com base em um **Sistema de Design** rigoroso, garantindo consistência e escalabilidade:
 
 | Especificação | Detalhe |
- Paleta de cores definida, tipografia hierárquica e um sistema de espaçamento modular (base 8px) utilizando variáveis CSS (`:root`). |
+ Paleta de cores definida, tipografia hierárquica e um sistema de espaçamento modular (base 8px) utilizando variáveis CSS. |
  Implementação de um sistema de **Grid de 12 Colunas** customizado para fácil organização do conteúdo. |
  O layout é totalmente adaptável e foi desenvolvido com **5 Breakpoints** para cobrir diversos tamanhos de tela. |
  Componentes padronizados: **Botões** , **Formulários** , **Alerts**, **Badges** e **Modals**. |
